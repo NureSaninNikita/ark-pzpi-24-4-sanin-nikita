@@ -1,8 +1,0 @@
-{
-  "spawn_cases": 3,
-  "drawing_cases": 7,
-  "visibility_cases": 2500,
-  "total": 2510,
-  "status": "passed",
-  "scope": "isolated fragments; no game window"
-}
